@@ -1,4 +1,4 @@
-Disclaimer
+## Disclaimer ##
 
 By using or accessing the YARA rules repository provided on this GitHub repository, you acknowledge and agree to the following terms:
 
@@ -12,7 +12,7 @@ Legal Compliance: It is your responsibility to use these YARA rules in a manner 
 
 No Liability: The creator of this repository will not be liable for any damages, whether direct, indirect, incidental, or consequential, that arise from the use or inability to use the YARA rules provided in this repository.
 
-By accessing or using this repository, you agree to these terms and acknowledge that you do so at your own risk.
+By accessing or using this repository, you agree to these terms and acknowledge that you do so at your own risk. F. Alimentadorweb
 
-## you can visit github.com/YARA-Rules/rules for more Yara Rules ##
+## you can visit https://github.com/YARA-Rules/rules for more Yara Rules ##
 
