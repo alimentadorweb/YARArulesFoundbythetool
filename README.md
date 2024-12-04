@@ -14,3 +14,5 @@ No Liability: The creator of this repository will not be liable for any damages,
 
 By accessing or using this repository, you agree to these terms and acknowledge that you do so at your own risk.
 
+## you can visit github.com/YARA-Rules/rules for more Yara Rules ##
+
